@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Orden %s';
+$_['text_new_greeting']         = 'Gracias por su interés en los productos de %s. La orden se ha recibido y será procesada una vez se confirme el pago.';
+$_['text_new_received']         = 'Has recibido una orden.';
+$_['text_new_link']             = 'Para ver la orden haz clic en el siguiente enlace:';
+$_['text_new_order_detail']     = 'Detalles Orden';
+$_['text_new_instruction']      = 'Instrucciones';
+$_['text_new_order_id']         = 'ID de Orden:';
+$_['text_new_date_added']       = 'Agregado en:';
+$_['text_new_order_status']     = 'Estado Orden:';
+$_['text_new_payment_method']   = 'Método de Pago:';
+$_['text_new_shipping_method']  = 'Método de Envío:';
+$_['text_new_email']            = 'E-mail:';
+$_['text_new_telephone']        = 'Teléfono:';
+$_['text_new_ip']               = 'Dirección IP:';
+$_['text_new_payment_address']  = 'Dirección de Pago';
+$_['text_new_shipping_address'] = 'Dirección de Correspondencia';
+$_['text_new_products']         = 'Productos';
+$_['text_new_product']          = 'Producto';
+$_['text_new_model']            = 'Modelo';
+$_['text_new_quantity']         = 'Cantidad';
+$_['text_new_price']            = 'Precio';
+$_['text_new_order_total']      = 'Totales Orden';
+$_['text_new_total']            = 'Total';
+$_['text_new_download']         = 'Una vez confirmado el pago, puede descargar el producto haciendo clic en el siguiente enlace';
+$_['text_new_comment']          = 'Los comentarios de su orden:';
+$_['text_new_footer']           = 'Por favor conteste este correo si tiene preguntas.';
+$_['text_update_subject']       = '%s - Orden Actualizada %s';
+$_['text_update_order']         = 'ID de Orden:';
+$_['text_update_date_added']    = 'Fecha de Orden:';
+$_['text_update_order_status']  = 'Su orden se ha actualizado al siguiente estado:';
+$_['text_update_comment']       = 'Los comentarios de su orden:';
+$_['text_update_link']          = 'Para ver su orden haga clic en el siguiente enlace:';
+$_['text_update_footer']        = 'Por favor conteste este correo si tiene preguntas.';

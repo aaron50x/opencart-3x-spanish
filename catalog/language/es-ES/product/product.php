@@ -41,3 +41,16 @@ $_['tab_review'] 	=  'Reseñas ( %s)';
 $_['error_name'] 	=  'Advertencia: El nombre de la reseña debe tener entre 3 y 25 caracteres.';
 $_['error_text'] 	=  'Advertencia: El texto de la revisión debe tener entre 25 y 1000 caracteres.';
 $_['error_rating'] 	=  'Atención: Por favor, seleccione una evaluación!';
+
+
+// Multivendor
+
+$_['column_seller']            = 'Proveedor';
+$_['contact_seller']           = 'Contacto Proveedor';
+$_['text_more']                = 'Más';
+$_['text_sellers']             = 'Proveedores';
+$_['text_seller']              = 'Proveedor: ';
+$_['text_choices']             = 'Otras Opciones';
+$_['text_seller_rating']       = 'Valoración Proveedor';
+$_['text_price']               = 'Precio';
+$_['text_action']              = 'Acción';

@@ -31,3 +31,7 @@ $_['error_minimum'] 	=  'La cantidad mínima de pedido para %s es %s!';
 $_['error_required'] 	=  'Se requiere %s!';
 $_['error_product'] 	=  'Advertencia: ¡No hay productos en su carrito!';
 $_['error_recurring_required'] 	=  'Por favor, seleccione un pago recurrente!';
+
+// Multivendor
+
+$_['text_seller']            = 'Producto Proveedor:';

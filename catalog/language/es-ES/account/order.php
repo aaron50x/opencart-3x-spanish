@@ -28,3 +28,11 @@ $_['column_date_added'] 	=  'Fecha Agregada';
 $_['column_status'] 	=  'Estado';
 $_['column_comment'] 	=  'Comentario';
 $_['error_reorder'] 	=  '% S no está actualmente disponible para ser reordenado.';
+
+
+// Multivendor
+$_['text_seller']           = 'Producto Proveedor:';
+$_['text_status']           = 'Estado:';
+$_['text_products']         = 'Productos:';
+$_['text_review']           = 'Reseñas';
+$_['text_rate']             = 'Valorar Proveedor';

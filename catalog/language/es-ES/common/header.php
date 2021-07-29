@@ -13,3 +13,9 @@ $_['text_logout'] 	=  'Cerrar sesión';
 $_['text_checkout'] 	=  'Pagar';
 $_['text_search'] 	=  'Buscar';
 $_['text_all'] 	=  'Mostrar todo';
+
+// Multivendor
+
+$_['text_buyeraccount']       = 'Comprador';
+$_['text_selleraccount']      = 'Vender Productos';
+$_['text_viewselleraccount']  = 'Ver Proveedores';

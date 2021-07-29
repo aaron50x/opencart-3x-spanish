@@ -82,3 +82,6 @@ $_['error_no_shipping'] 	=  'Advertencia: No Opciones de envío están disponibl
 $_['error_payment'] 	=  'Advertencia: ¡Se requiere el método de pago!';
 $_['error_no_payment'] 	=  'Advertencia: No hay opciones de pago disponibles. <a href="%s"> póngase en contacto con nosotros </a> para obtener ayuda!';
 $_['error_custom_field'] 	=  'Se requiere %s!';
+
+// Multivendor
+$_['text_seller']                    = 'Producto Proveedor:';

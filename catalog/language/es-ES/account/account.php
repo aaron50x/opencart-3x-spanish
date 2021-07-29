@@ -22,3 +22,11 @@ $_['text_transactions'] 	=  'Actas';
 $_['text_affiliate_add'] 	=  'Registrarse para una cuenta de afiliado';
 $_['text_affiliate_edit'] 	=  'Editar la información de su afiliado';
 $_['text_tracking'] 	=  'Código personalizado de seguimiento de afiliados';
+
+// Multivendor
+
+$_['btn_add_seller'] =  'Aplicar como Proveedor';
+$_['btn_switch_seller'] = 'Iniciar Sesión como Proveedor';
+$_['text_apply_selling']  = 'Cuenta de Proveedor';
+$_['text_not_seller']     = 'No es Proveedor actualmente, debe aplicar antes';
+$_['text_seller_account'] = 'Mi Cuenta de Proveedor';
