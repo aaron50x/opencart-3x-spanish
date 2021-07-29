@@ -87,3 +87,10 @@ $_['text_paypal_search'] 	=  'Buscar';
 $_['text_complete_status'] 	=  'Pedidos terminados';
 $_['text_processing_status'] 	=  'Procesamiento de pedidos';
 $_['text_other_status'] 	=  'Otros estados';
+
+// Multivendor
+
+$_['text_seller']           = 'Proveedor';
+$_['text_seller_transactions']        = 'Transacciones Proveedor';
+$_['text_sellerreview']       = 'Reseñas Proveedor';
+$_['text_commission']        = 'Comisión Proveedor';

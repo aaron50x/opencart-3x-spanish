@@ -34,3 +34,15 @@ $_['error_meta_title'] 	=  'Meta título debe ser mayor de 1 y menos de 255 cara
 $_['error_keyword'] 	=  'SEO URL ya está en uso!';
 $_['error_unique'] 	=  'URL de SEO debe ser único!';
 $_['error_parent'] 	=  '¡La categoría de padre que has elegido es un hijo de la actual!';
+
+
+// Multivendor
+
+$_['entry_approve']         = 'Aprobar:';
+$_['approve_enabled']       = 'Aprobado';
+$_['approve_disabled']      = 'Pendiente Aprobación';
+$_['approve_success']       = 'Has aprobado (%s) categorías(s)';
+$_['column_approve']        = 'Aprobar';
+$_['column_seller']         = 'Proveedor';
+$_['column_approved']       = 'Aprobado';
+$_['text_approved']         = 'Categoría aprobada';

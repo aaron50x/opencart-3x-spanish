@@ -97,3 +97,20 @@ $_['error_meta_title'] 	=  'Meta título debe ser mayor de 1 y menos de 255 cara
 $_['error_model'] 	=  'Modelo de producto debe ser mayor de 1 y menos de 64 caracteres!';
 $_['error_keyword'] 	=  'SEO URL ya está en uso!';
 $_['error_unique'] 	=  'URL de SEO debe ser único!';
+
+// Multivendor
+
+$_['entry_approve']          = 'Aprobar:';
+$_['approve_enabled']        = 'Aprobado';
+$_['approve_disabled']       = 'No Aprobado';
+$_['approve_success']        = 'Has aprobado (%s) producto(s)';
+$_['column_approve']         = 'Aprobar';
+$_['column_seller']          = 'Proveedor';
+$_['tab_seller_links']       = 'Enlaces Proveedor';
+$_['entry_seller_name']      = 'Nombre Proveedor:';
+$_['button_seller']          = 'Añadir Proveedor';
+$_['entry_commission']           = 'Comisión';
+$_['entry_wholesale_price']     = 'Precio al Mayor';
+$_['entry_retail_price']     = 'Precio al Detal';
+$_['fixed_commission']        = 'Fijo';
+$_['percent_commission']      = 'Porcentaje';

@@ -30,3 +30,12 @@ $_['error_name'] 	=  'El nombre de la opción debe estar entre 1 y 128 caractere
 $_['error_type'] 	=  'Advertencia: Opción Valores requeridos!';
 $_['error_option_value'] 	=  'Opción Valor El nombre debe tener entre 1 y 128 caracteres.';
 $_['error_product'] 	=  'Advertencia: ¡Esta opción no se puede eliminar ya que está asignada actualmente a %s products!';
+
+// Multivendor
+$_['entry_approve']           = 'Aprobar:';
+$_['approve_enabled']        = 'Aprobado';
+$_['approve_disabled']       = 'Pendiente Aprobación';
+$_['approve_success']        = 'Has aprobado (%s) option(s)';
+$_['column_approve']          = 'Aprobar';
+$_['column_seller']       = 'Proveedor';
+$_['column_approved']       = 'Aprobado';

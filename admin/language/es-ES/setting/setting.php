@@ -194,3 +194,17 @@ $_['error_log_required'] 	=  'Registro de errores ¡Se requiere el nombre de arc
 $_['error_log_invalid'] 	=  'El nombre del archivo de registro de errores no es válido!';
 $_['error_log_extension'] 	=  'La extensión del nombre de archivo de registro de errores debe ser .log!';
 $_['error_encryption'] 	=  '¡La clave de cifrado debe tener entre 32 y 1024 caracteres!';
+
+
+// Multivendor
+$_['tab_seller']         = 'Proveedor';
+$_['text_select_all']         = 'Seleccionar Todo';
+$_['text_unselect_all']         = 'Deseleccionar Todo';
+$_['text_orderstatus']         = 'Estado de Órdenes Proveedor';
+$_['entry_default_commission'] = 'Comisión por defecto:';
+$_['entry_default_category'] = 'Permiso a categorías por defecto Proveedor:';
+$_['entry_eligible_payment'] = 'Proveedor elegible para pago:';
+$_['entry_default_seller'] = 'Proveedor por Defecto';
+$_['entry_product_autoapprove'] = 'Auto-aprobar nuevo Poducto:';
+$_['entry_seller_autoapprove'] = 'Auto-aprobar nuevo Proveedor:';
+$_['entry_saccount_terms'] = 'Términos Cuenta Proveedor:<br><span class="help">Obliga a los usuarios a aceptar términos para crear una cuenta.</span>';

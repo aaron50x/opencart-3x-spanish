@@ -15,3 +15,13 @@ $_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar atrib
 $_['error_attribute_group'] 	=  '¡Se requiere el grupo de atributos!';
 $_['error_name'] 	=  'El nombre del atributo debe tener entre 1 y 64 caracteres.';
 $_['error_product'] 	=  'Advertencia: ¡Este atributo no se puede eliminar ya que está asignado actualmente a %s products!';
+
+// Multivendor
+
+$_['entry_approve']          = 'Aprobar:';
+$_['approve_enabled']        = 'Aprobado';
+$_['approve_disabled']       = 'Pendiente Aprobación';
+$_['approve_success']        = 'Has aprobado (%s) atributos(s)';
+$_['column_approve']         = 'Aprobar';
+$_['column_seller']          = 'Proveedor';
+$_['column_approved']        = 'Aprobado';
