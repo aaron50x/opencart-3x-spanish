@@ -1,54 +1,54 @@
 <?php
 // Heading
-$_['heading_title']    = 'My Downloads';
-$_['heading_title1']    = 'Add Download';
+$_['heading_title']    = 'Mis Descargas';
+$_['heading_title1']    = 'Añadir Descarga';
 // Text
-$_['text_success']     = 'Success: You have modified downloads!';
-$_['text_upload']      = 'Your file was successfully uploaded!';
-$_['text_loading']     = 'Loading..';
-$_['text_edit']        = 'Edit';
-$_['text_no_results']  = 'No Results Found';
-$_['text_confirm']     = 'Confirm';
+$_['text_success']     = 'Éxito: Descarga modificada!';
+$_['text_upload']      = 'Archivo cargado!';
+$_['text_loading']     = 'Cargando...';
+$_['text_edit']        = 'Editar';
+$_['text_no_results']  = 'No hay resultados';
+$_['text_confirm']     = 'Confirmar';
 // Column
-$_['column_name']      = 'Download Name';
-$_['column_remaining'] = 'Total Downloads Allowed';
-$_['column_action']    = 'Action';
-$_['column_date_added'] = 'Date Added';
+$_['column_name']      = 'Nombre Descarga';
+$_['column_remaining'] = 'Total Descargas Permitidas';
+$_['column_action']    = 'Acción';
+$_['column_date_added'] = 'Fecha Agregada';
 // Help
-$_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the download directory and enter the details below.';
-$_['help_mask']         = 'It is recommended that the filename and the mask are different to stop people trying to directly link to your downloads.';
+$_['help_filename']     = 'Puede subir usando el butón Subir o a través de FTP al directorio de descargas e ingresando los detalles a continuación.';
+$_['help_mask']         = 'Se recomienda que el nombre de archivo y la máscara sean distintos para evitar que usuarios intente enlazar directamente a sus descargas.';
 // Entry
-$_['entry_name']        = 'Download Name';
-$_['entry_filename']    = 'Filename';
-$_['entry_mask']        = 'Mask';
-$_['entry_remaining']  = 'Total Downloads Allowed:';
-$_['entry_update']     = 'Push to Previous Customers:<br /><span class="help">Check this to update previously purchased versions as well.</span>';
+$_['entry_name']        = 'Nombre Descarga';
+$_['entry_filename']    = 'Nombre Archivo';
+$_['entry_mask']        = 'Máscara';
+$_['entry_remaining']  = 'Total Descargas Permitidas:';
+$_['entry_update']     = 'Para Clientes Existentes:<br /><span class="help">Revise para actualizar versiones compradas con anterioridad.</span>';
 // Error
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify downloads!';
-$_['error_name']        = 'Download Name must be between 3 and 64 characters!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 128 characters!';
-$_['error_exists']      = 'File does not exist!';
-$_['error_mask']        = 'Mask must be between 3 and 128 characters!';
-$_['error_filetype']    = 'Invalid file type!';
-$_['error_product']     = 'Warning: This download cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Advertencia: No tiene permisos para modificar descargas!';
+$_['error_name']        = 'Nombre Descarga debe estar entre 3 y 64 caracteres!';
+$_['error_upload']      = 'Carga requerida!';
+$_['error_filename']    = 'Nombre de archivo de ser entre 3 y 128 caracteres!';
+$_['error_exists']      = 'Archivo no existe!';
+$_['error_mask']        = 'Máscara debe ser entre 3 y 128 caracteres!';
+$_['error_filetype']    = 'Tipo de archivo no válido!';
+$_['error_product']     = 'Advertencia: Esta descarga no se puede eliminar ya que está asignado a %s productos!';
 // Button
-$_['button_insert']           = 'Add New';
-$_['button_delete']           = 'Delete';
-$_['button_filter']           = 'Filter';
-$_['button_save']             = 'Save';
-$_['button_edit']             = 'Edit';
-$_['button_copy']             = 'Copy';
-$_['button_back']             = 'Back';
-$_['button_cancel']           = 'Cancel';
-$_['button_remove']           = 'Remove';
-$_['button_backup']           = 'Backup';
-$_['button_upload']           = 'Upload';
-$_['button_submit']           = 'Submit';
-$_['button_add_discount']     = 'Add Discount';
-$_['button_add_special']      = 'Add Special';
-$_['button_add_image']        = 'Add Image';
-$_['button_reset']            = 'Reset';
-$_['button_add_option_value']            = 'Add Option Value';
+$_['button_insert']           = 'Añadir';
+$_['button_delete']           = 'Eliminar';
+$_['button_filter']           = 'Filtrar';
+$_['button_save']             = 'Guardar';
+$_['button_edit']             = 'Editar';
+$_['button_copy']             = 'Copiar';
+$_['button_back']             = 'Atrás';
+$_['button_cancel']           = 'Cancelar';
+$_['button_remove']           = 'Eliminar';
+$_['button_backup']           = 'Generar Backup';
+$_['button_upload']           = 'Subir';
+$_['button_submit']           = 'Enviar';
+$_['button_add_discount']     = 'Añadir Descuento';
+$_['button_add_special']      = 'Añadir Especial';
+$_['button_add_image']        = 'Añadir Imagen';
+$_['button_reset']            = 'Restablecer';
+$_['button_add_option_value']            = 'Añádir Valor Opción';
 ?>
