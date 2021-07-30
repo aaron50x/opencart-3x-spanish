@@ -1,0 +1,162 @@
+<?php
+// Heading
+$_['heading_title']          = 'Mis Categorías';
+$_['heading_title1']     	 = 'Añadir Categoríá';
+// Text
+$_['text_success']           = 'Éxito: Ha modificado categoríás!';
+$_['text_default']           = 'Por Defecto';
+$_['text_image_manager']     = 'Administrador de Imágenes';
+$_['text_browse']            = 'Examinar Archivos';
+$_['text_clear']             = 'Limpiar Imagen';
+// Column
+$_['column_name']            = 'Nombre Categoría';
+$_['column_sort_order']      = 'Orden';
+$_['column_action']          = 'Acción';
+// Entry
+$_['entry_name']             = 'Nombre Categoría';
+$_['entry_description']      = 'Descripción';
+$_['entry_meta_title'] 	     = 'Meta Tag Title';
+$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
+$_['entry_meta_description'] = 'Meta Tag Description';
+$_['entry_keyword']          = 'SEO Keyword';
+$_['entry_parent']           = 'Padre';
+$_['entry_filter']           = 'Filtros';
+$_['entry_store']            = 'Tiendas';
+$_['entry_image']            = 'Imagen';
+$_['entry_top']              = 'Arriba';
+$_['entry_column']           = 'Columnas';
+$_['entry_sort_order']       = 'Orden';
+$_['entry_status']           = 'Estado';
+$_['entry_layout']           = 'Reemplazar Layout';
+// Error
+$_['error_warning']          = 'Advertencia: Revise cuidadosamente los errores del formulario!';
+$_['error_permission']       = 'Advertencia: No tiene permisos para modificar categorías';
+$_['error_name']             = 'Nombre Categoríá debe ser entre 2 y 32 caracteres!';
+$_['error_meta_title']       = 'Meta Title debe ser entre 4 y 254 caracteres!';
+// Button
+$_['button_insert']           = 'Añadir';
+$_['button_delete']           = 'Eliminar';
+$_['button_save']             = 'Guardar';
+$_['button_cancel']           = 'Cancelar';
+$_['button_clear']            = 'Limpiar Log';
+$_['button_close']            = 'Cerrar';
+$_['button_filter']           = 'Filtrar';
+$_['button_send']             = 'Enviar';
+$_['button_edit']             = 'Editar';
+$_['button_copy']             = 'Copiar';
+$_['button_back']             = 'Atrás';
+$_['button_remove']           = 'Eliminar';
+$_['button_backup']           = 'Generar Backup';
+$_['button_restore']          = 'Restablecer Backup';
+$_['button_upload']           = 'Subir';
+$_['button_submit']           = 'Enviar';
+$_['button_invoice']          = 'Imprimir Factura';
+$_['button_add_address']      = 'Añadir Dirección';
+$_['button_add_attribute']    = 'Añadir Atributo';
+$_['button_add_banner']       = 'Añadir Banner';
+$_['button_add_product']      = 'Añadir Producto';
+$_['button_add_voucher']      = 'Añadir Voucher';
+$_['button_add_option']       = 'Añádir Opción';
+$_['button_add_option_value'] = 'Añádir Valor de Opción';
+$_['button_add_discount']     = 'Añadir Descuento';
+$_['button_add_special']      = 'Añadir Especial';
+$_['button_add_image']        = 'Añadir Imagen';
+$_['button_add_geo_zone']     = 'Añadir Geo Zone';
+$_['button_add_history']      = 'Añadir Historial';
+$_['button_add_transaction']  = 'Añadir Transacción';
+$_['button_add_total']        = 'Anadir Total';
+$_['button_add_reward']       = 'Añadir Puntos de Recompensa';
+$_['button_add_route']        = 'Añadir Ruta';
+$_['button_add_rule' ]        = 'Añádir Regla';
+$_['button_add_module']       = 'Añádir Modulo';
+$_['button_add_link']         = 'Añádir Enlace';
+$_['button_update_total']     = 'Actualizar Totales';
+$_['button_approve']          = 'Aprobar';
+$_['button_reset']            = 'Restablecer';
+// Text
+$_['text_yes']                = 'Sí';
+$_['text_no']                 = 'No';
+$_['text_enabled']            = 'Habilitado';
+$_['text_disabled']           = 'Deshabilitado';
+$_['text_none']               = ' --- Ninguno --- ';
+$_['text_select']             = ' --- Escoja --- ';
+$_['text_select_all']         = 'Seleccionar Todo';
+$_['text_unselect_all']       = 'Deseleccionar Todo';
+$_['text_all_zones']          = 'Todas las Zonas';
+$_['text_default']            = ' <b>(Defecto)</b>';
+$_['text_close']              = 'Cerrar';
+$_['text_no_results']         = 'No hay resultados!';
+$_['text_separator']          = ' &gt; ';
+$_['text_edit']               = 'Editar';
+$_['text_view']               = 'Ver';
+$_['text_home']               = 'Inicio';
+// Tab
+$_['tab_address']             = 'Dirección';
+$_['tab_admin']               = 'Admin';
+$_['tab_attribute']           = 'Atributos';
+$_['tab_coupon_history']      = 'Historial Cupones';
+$_['tab_customer']            = 'Detalles Cliente';
+$_['tab_data']                = 'Datos';
+$_['tab_design']              = 'Diseño';
+$_['tab_discount']            = 'Descuento';
+$_['tab_general']             = 'General';
+$_['tab_fraud']               = 'Fraude';
+$_['tab_ip']                  = 'Direcciones IP';
+$_['tab_links']               = 'Enlaces';
+$_['tab_image']               = 'Imagen';
+$_['tab_option']              = 'Opción';
+$_['tab_server']              = 'Servidor';
+$_['tab_store']               = 'Tienda';
+$_['tab_special']             = 'Especial';
+$_['tab_local']               = 'Local';
+$_['tab_mail']                = 'Mail';
+$_['tab_module']              = 'Modulo';
+$_['tab_order']               = 'Detalles Orden';
+$_['tab_order_history']       = 'Historial Orden';
+$_['tab_payment']             = 'Detalles Pago';
+$_['tab_product']             = 'Productos';
+$_['tab_return']              = 'Detalles Devolución';
+$_['tab_return_history']      = 'Historial Devoluciones';
+$_['tab_reward']              = 'Puntos';
+$_['tab_shipping']            = 'Detalles Envío';
+$_['tab_total']               = 'Totales';
+$_['tab_transaction']         = 'Transacciones';
+$_['tab_voucher']             = 'Vouchers';
+$_['tab_voucher_history']     = 'Historial Voucher';
+/**code added here**/
+// Button
+$_['button_insert']           = 'Añadir';
+$_['button_delete']           = 'Eliminar';
+$_['button_filter']           = 'Filtrar';
+$_['button_save']             = 'Guardar';
+$_['button_edit']             = 'Editar';
+$_['button_copy']             = 'Copiar';
+$_['button_back']             = 'Atrás';
+$_['button_cancel']           = 'Cancelar';
+$_['button_remove']           = 'Eliminar';
+$_['button_backup']           = 'Generar Backup';
+$_['button_upload']           = 'Subir';
+$_['button_submit']           = 'Enviar';
+$_['button_add_discount']     = 'Añádir Descuento';
+$_['button_add_special']      = 'Añadir Especil';
+$_['button_add_image']        = 'Añadir Imagen';
+$_['button_reset']            = 'Restablecer';
+$_['button_add_option_value']            = 'Añádir Valor Opción';
+$_['text_edit']         = 'Editar';
+$_['text_no_results']         = 'No se encontraro resultados';
+$_['text_success']      = 'Gracias por crear la categoríá. Se ha enviado al admin para aprobación';
+$_['text_modify']      = 'Ha modificado la categoríá!';
+// Help
+$_['help_filter']            = '(Autocompletar)';
+$_['help_keyword']           = 'No utilizar espacios, utilice - y asegure que es único a nivel global.';
+$_['help_top']               = 'Mostrar en barra de menú superior. Sólo para categorías de primer nivel.';
+$_['help_column']            = 'Número de columnas para últimas 3 categorías. Sólo para categorías de primer nivel.';
+//mail
+$_['text_subject']  = '%s - Nueva categoríá en espera de aprobación';
+$_['text_welcome']  = 'Nueva categoríá creada %s!';
+$_['text_login']    = 'Su cuenta se ha creado y puede iniciar sesión utilizando su email y contraseña en nuestro sitio:';
+$_['text_approval'] = 'Nueva categoría en espera de aprobación. Inicie sesión como admin y revise categorías por aprobar';
+$_['text_services'] = 'Al iniciar sesión, podrá acceder a varios servicios, como revisar órdenes anteriores, imprimir facturas y editar su información de cuenta.';
+$_['text_thanks']   = 'Gracias,';
+/*end*/
+?>

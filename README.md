@@ -11,6 +11,9 @@ Luego de hacer eso se puede configurar el idioma para que se use en la tienda de
 
 ## Llaves Pendientes
 
+
+->>> /home/aaron/neo/opencart-3x-spanish/seller/catalog/language/es-ES/seller/category.php
+
 ### Catalog
 
 ```
