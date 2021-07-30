@@ -3,6 +3,7 @@
 $_['heading_title']     		= 'Mis Productos';
 $_['heading_title1']    		= 'Añadir Producto';
 $_['new_extensions']    		= 'Añadir nuevo producto <a href="%s">aquí</a>.';
+$_['text_list'] = "Productos";
 $_['text_price']        		= 'Precio:'; 
 $_['text_qty']          		= 'Cant:';
 $_['text_or']           		= '- O -';
